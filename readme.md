@@ -1,6 +1,6 @@
-# TD, TP Formation Linux 
+# TD, TP Formation Linux  
 
-Ce repo contient l'ensemble des exercices et TP de la formation Linux.
+Ce repoitori contient l'ensemble des exercices et TP de la formation Linux.
 
 1. exercices sur les commandes de base et de gestion de fichier  dans [Gestion Affichage](./affichage/Readme.md).
 2. Exercices sur les commandes avancées, de recherche, grep etc. dans [Fichier](./fichier/readme.md).
